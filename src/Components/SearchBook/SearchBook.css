@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(240, 190, 128);
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1{
+color: rgb(101, 78, 78);
+}
+
+header input{
+    height: 40px;
+    width: 400px;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
